@@ -6,18 +6,17 @@ Here is a list of the published mods so far:
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [H3VR](https://h3vr.thunderstore.io/package/bhaptics_modding/H3VR_bhaptics/) | [Steam](https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/) | [bhaptics](https://www.youtube.com/watch?v=GIGNdxTLIS8) | vest, arms, hands, Tactal | Yes |
 | [Until You Fall](https://www.nexusmods.com/untilyoufall/mods/1) | [Steam](https://store.steampowered.com/app/858260/Until_You_Fall/) [Oculus](https://www.oculus.com/experiences/rift/3629229127102494) | [bhaptics](https://www.youtube.com/watch?v=WoUzTPNt608) | vest, arms, hands | Yes |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| [Budget Cuts 2](https://www.nexusmods.com/budgetcuts2missioninsolvency/mods/1) | [Steam](https://store.steampowered.com/app/1092430/Budget_Cuts_2_Mission_Insolvency/) | [Floh](https://www.youtube.com/watch?v=oUevuz3uzw8) | vest, arms, Tactal | Yes |
+| [I Expect You To Die 2](https://www.nexusmods.com/iexpectyoutodie2/mods/2) | [Steam](https://store.steampowered.com/app/1499120/I_Expect_You_To_Die_2/) [Oculus](https://www.oculus.com/experiences/quest/2970998659623177/) | [bhaptics](https://www.youtube.com/watch?v=rsHtgZWHWlI) | vest, arms, Tactal | Yes, update video link |
+| [Vertigo Remastered](https://www.nexusmods.com/vertigoremastered/mods/1) | [Steam](https://store.steampowered.com/app/1318090/Vertigo_Remastered/) | [bhaptics](https://www.youtube.com/watch?v=RPFSdMht8Wo) | vest, arms, hands, feet, Tactal | Yes, update video link |
+| [Pistol Whip](https://www.nexusmods.com/pistolwhip/mods/1) | [Steam](https://store.steampowered.com/app/1079800/Pistol_Whip/) [Oculus](https://www.oculus.com/experiences/rift/2314034471989368/) | [Floh](https://www.youtube.com/watch?v=1aSlRRlkr1g) | vest, arms, hands, Tactal | Yes |
+| [Warhammer 40,000: Battle Sister](https://www.nexusmods.com/warhammer40000battlesister/mods/1) | [Steam](https://store.steampowered.com/app/1733890/Warhammer_40000_Battle_Sister/) [Oculus](https://www.oculus.com/experiences/rift/2728988973800701/) | [Floh](https://www.youtube.com/watch?v=p7T1vKIz-dY) | vest, arms, hands, Tactal | No |
+| [Falcon Age](https://www.nexusmods.com/falconage/mods/1) | [Steam](https://store.steampowered.com/app/1075080/Falcon_Age/) | [Floh](https://www.youtube.com/watch?v=rU06gFTyLns) | vest, arms, hands | No |
+| [AGAINST](https://www.nexusmods.com/against/mods/1) | [Steam](https://store.steampowered.com/app/1584840/AGAINST/) | [Floh](https://www.youtube.com/watch?v=lfRbeeK-Fnk) | vest, arms, hands | No |
+| [Space Pirate Trainer](https://www.nexusmods.com/spacepiratetrainer/mods/1) | [Steam](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/) [Oculus](https://www.oculus.com/experiences/rift/1195983747083203/) | [Floh](https://www.youtube.com/watch?v=j5QzWcMtRKw) | vest, arms, hands | No |
+| [Shadow Legend VR](https://www.nexusmods.com/shadowlegendsvr/mods/1) | [Steam](https://store.steampowered.com/app/987230/Shadow_Legend_VR/) [Oculus](https://www.oculus.com/experiences/rift/2739977019349635/) | [Floh](https://www.youtube.com/watch?v=qMVIjL6HccQ) | vest, arms, hands, feet, Tactal | No |
+| The Forest VR | [Steam](https://store.steampowered.com/app/242760/The_Forest/) | [Floh](https://www.youtube.com/watch?v=ZcZUNvCM9cw) | vest, arms, hands | No, waiting for Nexusmods |
+| Stones Of Harlath | [Steam](https://store.steampowered.com/app/304870/Stones_of_Harlath/) [Oculus](https://www.oculus.com/experiences/rift/4854418817962909/) | [Floh](https://www.youtube.com/watch?v=2kjduQT_Tbk) | vest, arms, hands | No, waiting for Nexusmods |
 
 <!---
 floh-bhaptics/floh-bhaptics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
