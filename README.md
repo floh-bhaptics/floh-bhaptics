@@ -1,5 +1,7 @@
 My name is Floh. This is a place to store all projects I create for the integration of bhaptics gear into various older or unsupported VR games.
 
+If you are looking for a very brief introduction how to mod for bhaptics integration, I somewhat cleaned up the code a tiny little bit and added some pointers to the [Shadow Legend VR](https://github.com/floh-bhaptics/ShadowLegend_bhaptics) repository. So definitely check that one out, and not the other, even uncleaner ones. ;-)
+
 Here is a list of the published mods so far:
 
 | Mod link | Game links | Video preview | Supported gear | ToDo on Official list? |
