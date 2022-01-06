@@ -17,7 +17,7 @@ Here is a list of the published mods so far:
 | [AGAINST](https://www.nexusmods.com/against/mods/1) | [Steam](https://store.steampowered.com/app/1584840/AGAINST/) | [Floh](https://www.youtube.com/watch?v=lfRbeeK-Fnk) | vest, arms, hands |  |
 | [Space Pirate Trainer](https://www.nexusmods.com/spacepiratetrainer/mods/1) | [Steam](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/) [Oculus](https://www.oculus.com/experiences/rift/1195983747083203/) | [Floh](https://www.youtube.com/watch?v=j5QzWcMtRKw) | vest, arms, hands |  |
 | [Shadow Legend VR](https://www.nexusmods.com/shadowlegendsvr/mods/1) | [Steam](https://store.steampowered.com/app/987230/Shadow_Legend_VR/) [Oculus](https://www.oculus.com/experiences/rift/2739977019349635/) | [Floh](https://www.youtube.com/watch?v=qMVIjL6HccQ) | vest, arms, hands, feet, Tactal |  |
-| The Forest VR | [Steam](https://store.steampowered.com/app/242760/The_Forest/) | [Floh](https://www.youtube.com/watch?v=ZcZUNvCM9cw) | vest, arms, hands | Make entry |
+| [The Forest VR](https://www.nexusmods.com/theforest/mods/7/) | [Steam](https://store.steampowered.com/app/242760/The_Forest/) | [Floh](https://www.youtube.com/watch?v=ZcZUNvCM9cw) | vest, arms, hands | Make entry |
 | Stones Of Harlath | [Steam](https://store.steampowered.com/app/304870/Stones_of_Harlath/) [Oculus](https://www.oculus.com/experiences/rift/4854418817962909/) | [Floh](https://www.youtube.com/watch?v=2kjduQT_Tbk) | vest, arms, hands | Make entry |
 | Ironlights | [Steam](https://store.steampowered.com/app/1245950/Ironlights/) [Oculus](https://www.oculus.com/experiences/rift/3959103380773871/) | [Floh](https://www.youtube.com/watch?v=1w32jtGbdKc) | vest, arms, hands, Tactal | Make entry |
 
