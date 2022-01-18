@@ -24,6 +24,7 @@ Here is a list of the published mods so far:
 | [Floor Plan 2](https://www.nexusmods.com/floorplan2/mods/1) | [Steam](https://store.steampowered.com/app/1534850/Floor_Plan_2/) [Oculus](https://www.oculus.com/experiences/rift/3447843535341632/) | [Floh](https://www.youtube.com/watch?v=6togjPXMmcY) | vest, arms, hands |  |
 | [Gun Club VR](https://www.nexusmods.com/gunclubvr/mods/1) | [Steam](https://store.steampowered.com/app/691320/Gun_Club_VR/) [Oculus](https://www.oculus.com/experiences/rift/1312908222125035/) | [Floh](https://www.youtube.com/watch?v=v-bglB1xNJo) | vest, arms, hands |  |
 | [Wands](https://www.nexusmods.com/wands/mods/1) | [Steam](https://store.steampowered.com/app/741400/Wands/) [Oculus](https://www.oculus.com/experiences/rift/1833318536683635/) | [Floh](https://www.youtube.com/watch?v=Y-dU8pkAB2g) | vest, arms, hands |  |
+| Elven Assassin | [Steam](https://store.steampowered.com/app/503770/Elven_Assassin/) [Oculus](https://www.oculus.com/experiences/rift/1155989791152285/) | [Floh](https://www.youtube.com/watch?v=AYCy2a3sli0) | vest |  |
 
 
 <!---
