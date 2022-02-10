@@ -29,6 +29,7 @@ Here is a list of the published mods so far:
 | [Elven Assassin](https://www.nexusmods.com/elvenassassin/mods/1) | [Steam](https://store.steampowered.com/app/503770/Elven_Assassin/) [Oculus](https://www.oculus.com/experiences/rift/1155989791152285/) | [Floh](https://www.youtube.com/watch?v=AYCy2a3sli0) | vest | Make entry |
 | Vanishing Realms | [Steam](https://store.steampowered.com/app/322770/Vanishing_Realms/) | [Floh](https://www.youtube.com/watch?v=zLbIooIyyvI) | vest, arms, hands, feet, Tactal | Make entry |
 | Fruit Ninja VR 2 | [Steam](https://store.steampowered.com/app/1575520/Fruit_Ninja_VR_2/) | [Floh](https://www.youtube.com/watch?v=nogQd0n3JBU) | vest, arms, hands | Make entry |
+| Racket: Nx | [Steam](https://store.steampowered.com/app/428080/Racket_Nx/) [Oculus](https://www.oculus.com/experiences/rift/1563751417029979/) | [Floh](https://www.youtube.com/watch?v=p3eM4Z_Xn44) | vest, arms, hands | Make entry |
 
 
 <!---
