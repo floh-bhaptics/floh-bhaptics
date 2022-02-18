@@ -30,7 +30,7 @@ Here is a list of the published mods so far:
 | [Vanishing Realms](https://www.nexusmods.com/vanishingrealms/mods/1) | [Steam](https://store.steampowered.com/app/322770/Vanishing_Realms/) | [Floh](https://www.youtube.com/watch?v=zLbIooIyyvI) | vest, arms, hands, feet, Tactal |  |
 | [Fruit Ninja VR 2](https://www.nexusmods.com/fruitninjavr2/mods/1) | [Steam](https://store.steampowered.com/app/1575520/Fruit_Ninja_VR_2/) | [Floh](https://www.youtube.com/watch?v=nogQd0n3JBU) | vest, arms, hands |  |
 | [Racket: Nx](https://www.nexusmods.com/racketnx/mods/1) | [Steam](https://store.steampowered.com/app/428080/Racket_Nx/) [Oculus](https://www.oculus.com/experiences/rift/1563751417029979/) | [Floh](https://www.youtube.com/watch?v=p3eM4Z_Xn44) | vest, arms, hands |  |
-| [Beat Saber Functional]() [Beat Saber Musical]() | [Steam](https://store.steampowered.com/app/620980/Beat_Saber/) [Oculus](https://www.oculus.com/experiences/rift/1304877726278670/) | [Floh](https://www.youtube.com/watch?v=X15WuW8BiaM) | vest, arms, hands | Make entry |
+| [Beat Saber Functional]() <br /> [Beat Saber Musical]() | [Steam](https://store.steampowered.com/app/620980/Beat_Saber/) [Oculus](https://www.oculus.com/experiences/rift/1304877726278670/) | [Floh](https://www.youtube.com/watch?v=X15WuW8BiaM) | vest, arms, hands | Make entry |
 
 
 <!---
