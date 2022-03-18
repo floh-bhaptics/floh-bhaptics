@@ -33,6 +33,8 @@ Here is a list of the published mods so far:
 | [Beat Saber](https://github.com/Assistant/ModAssistant/releases) <br /> [Funtional](https://www.nexusmods.com/beatsaber/mods/12)/[Musical](https://www.nexusmods.com/beatsaber/mods/13/) | [Steam](https://store.steampowered.com/app/620980/Beat_Saber/) [Oculus](https://www.oculus.com/experiences/rift/1304877726278670/) | [Floh](https://www.youtube.com/watch?v=X15WuW8BiaM) | vest, arms, hands |  |
 | [Zenith](https://github.com/floh-bhaptics/Zenith_bhaptics) | [Steam](https://store.steampowered.com/app/1403370/Zenith_The_Last_City/) [Oculus](https://www.oculus.com/experiences/rift/3476054399136890/) | [Floh](https://www.youtube.com/watch?v=TBF0PlZaUVw) | vest, arms, hands |  |
 | [Gorilla Tag](https://github.com/floh-bhaptics/GorillaTag_bhaptics#readme) | [Steam](https://store.steampowered.com/app/1533390/Gorilla_Tag/) [Oculus](https://www.oculus.com/experiences/rift/3262063300561328/) | | vest, arms, hands |  |
+| [Fruit Ninja VR]() | [Steam](https://store.steampowered.com/app/486780/Fruit_Ninja_VR/) [Oculus](https://www.oculus.com/experiences/rift/1332617726752141/) | [Floh](https://www.youtube.com/watch?v=tMfNG0D0Z04) | vest, arms, hands | Make entry |
+| [OUTLIER]() | [Steam](https://store.steampowered.com/app/1596690/OUTLIER/) | [Floh](https://www.youtube.com/watch?v=v47M7MI0wZE) | vest, arms, hands | Make entry |
 
 
 <!---
