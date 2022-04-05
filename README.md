@@ -37,7 +37,9 @@ Here is a list of the published mods so far:
 | [OUTLIER](https://www.nexusmods.com/outlier/mods/1) | [Steam](https://store.steampowered.com/app/1596690/OUTLIER/) | [Floh](https://www.youtube.com/watch?v=v47M7MI0wZE) | vest, arms, hands |  |
 | [Sword Reverie](https://www.nexusmods.com/swordreverie/mods/1) | [Steam](https://store.steampowered.com/app/1377430/Sword_Reverie/) [Oculus](https://www.oculus.com/experiences/rift/2788402601249510/) | [Floh](https://www.youtube.com/watch?v=71JoC6NugFw) | vest, arms, hands |  |
 | [Vengeful Rites](https://www.nexusmods.com/vengefulrites/mods/1) | [Steam](https://store.steampowered.com/app/755410/Vengeful_Rites/) [Oculus](https://www.oculus.com/experiences/rift/1608154952629346) | [Floh](https://www.youtube.com/watch?v=hDZGSJgRBSI) | vest, arms, hands |  |
-| [Rush](https://www.nexusmods.com/rush/mods/1) | [Steam](https://store.steampowered.com/app/844040/RUSH/) [Oculus](https://www.oculus.com/experiences/rift/1972405206119760/) | [Floh](https://www.youtube.com/watch?v=NNkKas2iXUs) | vest | Make entry |
+| [Rush](https://www.nexusmods.com/rush/mods/1) | [Steam](https://store.steampowered.com/app/844040/RUSH/) [Oculus](https://www.oculus.com/experiences/rift/1972405206119760/) | [Floh](https://www.youtube.com/watch?v=NNkKas2iXUs) | vest |  |
+| [Garden Of The Sea](https://www.nexusmods.com/gardenofthesea/mods/1) | [Steam](https://store.steampowered.com/app/1086850/Garden_of_the_Sea/) | [Floh](https://www.youtube.com/watch?v=diS-2FZ-nXU) | vest, arms, hands | Make entry |
+| [Cooking Simulator VR](https://www.nexusmods.com/cookingsimulatorvr/mods/1) | [Steam](https://store.steampowered.com/app/1358140/Cooking_Simulator_VR/) | [Floh](https://www.youtube.com/watch?v=SM7-er_mZHA) | vest, arms, hands | Make entry |
 
 
 <!---
