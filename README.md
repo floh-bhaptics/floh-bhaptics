@@ -40,6 +40,7 @@ Here is a list of the published mods so far:
 | [Rush](https://www.nexusmods.com/rush/mods/1) | [Steam](https://store.steampowered.com/app/844040/RUSH/) [Oculus](https://www.oculus.com/experiences/rift/1972405206119760/) | [Floh](https://www.youtube.com/watch?v=NNkKas2iXUs) | vest |  |
 | [Garden Of The Sea](https://www.nexusmods.com/gardenofthesea/mods/1) | [Steam](https://store.steampowered.com/app/1086850/Garden_of_the_Sea/) | [Floh](https://www.youtube.com/watch?v=diS-2FZ-nXU) | vest, arms, hands | Make entry |
 | [Cooking Simulator VR](https://www.nexusmods.com/cookingsimulatorvr/mods/1) | [Steam](https://store.steampowered.com/app/1358140/Cooking_Simulator_VR/) | [Floh](https://www.youtube.com/watch?v=SM7-er_mZHA) | vest, arms, hands | Make entry |
+| [The Living Remain](https://www.nexusmods.com/thelivingremain/mods/1) | [Steam](https://store.steampowered.com/app/594220/The_Living_Remain/) | [Floh](https://www.youtube.com/watch?v=DUpjFfI-yVI) | vest, arms, hands | Make entry |
 
 
 <!---
