@@ -41,7 +41,8 @@ Here is a list of the published mods so far:
 | [Garden Of The Sea](https://www.nexusmods.com/gardenofthesea/mods/1) | [Steam](https://store.steampowered.com/app/1086850/Garden_of_the_Sea/) | [Floh](https://www.youtube.com/watch?v=diS-2FZ-nXU) | vest, arms, hands |  |
 | [Cooking Simulator VR](https://www.nexusmods.com/cookingsimulatorvr/mods/1) | [Steam](https://store.steampowered.com/app/1358140/Cooking_Simulator_VR/) | [Floh](https://www.youtube.com/watch?v=SM7-er_mZHA) | vest, arms, hands |  |
 | [The Living Remain](https://www.nexusmods.com/thelivingremain/mods/1) | [Steam](https://store.steampowered.com/app/594220/The_Living_Remain/) | [Floh](https://www.youtube.com/watch?v=DUpjFfI-yVI) | vest, arms, hands |  |
-| [Arizona Sunshine](https://www.nexusmods.com/arizonasunshine/mods/1) | [Steam](https://store.steampowered.com/app/342180/Arizona_Sunshine/) [Oculus](https://www.oculus.com/experiences/rift/872183756232656/) | [Floh](https://www.youtube.com/watch?v=NOKpzX70Hkc) | vest, arms, hands, feet | Make entry |
+| [Arizona Sunshine](https://www.nexusmods.com/arizonasunshine/mods/1) | [Steam](https://store.steampowered.com/app/342180/Arizona_Sunshine/) [Oculus](https://www.oculus.com/experiences/rift/872183756232656/) | [Floh](https://www.youtube.com/watch?v=UwA6HljX4SE) | vest, arms, hands, feet | Make entry |
+| [AUDICA](https://www.nexusmods.com/audica/mods/1) | [Steam](https://store.steampowered.com/app/1020340/AUDICA_Rhythm_Shooter/) [Oculus](https://www.oculus.com/experiences/rift/2172302616173639/) | [Floh](https://www.youtube.com/watch?v=U4xvSUToIlM) | vest, arms, hands | Make entry |
 
 
 <!---
