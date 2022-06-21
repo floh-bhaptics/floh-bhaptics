@@ -43,7 +43,8 @@ Here is a list of the published mods so far:
 | [The Living Remain](https://www.nexusmods.com/thelivingremain/mods/1) | [Steam](https://store.steampowered.com/app/594220/The_Living_Remain/) | [Floh](https://www.youtube.com/watch?v=DUpjFfI-yVI) | vest, arms, hands |  |
 | [Arizona Sunshine](https://www.nexusmods.com/arizonasunshine/mods/1) | [Steam](https://store.steampowered.com/app/342180/Arizona_Sunshine/) [Oculus](https://www.oculus.com/experiences/rift/872183756232656/) | [Floh](https://www.youtube.com/watch?v=UwA6HljX4SE) | vest, arms, hands, feet |  |
 | [AUDICA](https://www.nexusmods.com/audica/mods/1) | [Steam](https://store.steampowered.com/app/1020340/AUDICA_Rhythm_Shooter/) [Oculus](https://www.oculus.com/experiences/rift/2172302616173639/) | [Floh](https://www.youtube.com/watch?v=U4xvSUToIlM) | vest, arms, hands |  |
-| [A Blind Legend](https://www.nexusmods.com/ablindlegend/mods/1) | [Steam](https://store.steampowered.com/app/437530/A_Blind_Legend/) | -- | vest, arms, hands | Make entry |
+| [A Blind Legend](https://www.nexusmods.com/ablindlegend/mods/1) | [Steam](https://store.steampowered.com/app/437530/A_Blind_Legend/) | -- | vest, arms, hands |  |
+| [Shadowgate VR](https://www.nexusmods.com/shadowgatetheminesofmythrok/mods/1) | [Steam](https://store.steampowered.com/app/1822970/) [Oculus](https://www.oculus.com/experiences/rift/4260024320768715/) | [Floh](https://www.youtube.com/watch?v=Kmc3eyxn8A0) | vest, arms, hands | Make entry |
 
 
 <!---
