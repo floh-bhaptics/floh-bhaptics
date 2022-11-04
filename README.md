@@ -48,6 +48,7 @@ Here is a list of the published mods so far:
 | [Audio Trip](https://github.com/floh-bhaptics/AudioTrip_bhaptics) | [Steam](https://store.steampowered.com/app/826540/) [Oculus](https://www.oculus.com/experiences/rift/2580325682015862/) | | vest, arms, hands, feet |  |
 | [Bonelab](https://github.com/floh-bhaptics/Bonelab_bhaptics) | [Steam](https://store.steampowered.com/app/1592190/) [Oculus](https://www.oculus.com/experiences/rift/5088709007839657) |  | vest, arms, hands, Tactal |  |
 | [Vertigo 2](https://www.nexusmods.com/vertigo2/mods/1) | [Steam](https://store.steampowered.com/app/843390/Vertigo_2/) |  | vest, arms, hands, feet, Tactal | Make entry |
+| [RUINSMAGUS](https://github.com/floh-bhaptics/Ruinsmagus_bhaptics) | [Steam](https://store.steampowered.com/app/1701560/RUINSMAGUS/) |  | vest, arms, hands | Make entry |
 
 <!---
 floh-bhaptics/floh-bhaptics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
