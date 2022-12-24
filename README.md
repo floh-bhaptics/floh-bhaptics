@@ -56,6 +56,7 @@ Here is a list of the published mods so far:
 | [Drunkn Bar Fight](https://www.nexusmods.com/drunknbarfight/mods/1) | [Steam](https://store.steampowered.com/app/528550/Drunkn_Bar_Fight/) [Oculus](https://www.oculus.com/experiences/rift/1207497572657758/) | | vest | Make entry |
 | [Vox Machinae](https://www.nexusmods.com/voxmachinae/mods/1) | [Steam](https://store.steampowered.com/app/334540/Vox_Machinae/) [Oculus](https://www.oculus.com/experiences/rift/957951994279023/) | | vest | Make entry |
 | [Barbaria](https://www.nexusmods.com/barbaria/mods/1) | [Steam](https://store.steampowered.com/app/1984610/Barbaria/) [Oculus](https://www.oculus.com/experiences/rift/4002434216527968/) | | vest, arms | Make entry |
+| [Paradox of Hope](https://www.nexusmods.com/paradoxofhope/mods/1) | [Steam](https://store.steampowered.com/app/1702840/Paradox_of_Hope_VR/) | | vest, arms | Make entry |
 
 
 <!---
