@@ -50,13 +50,14 @@ Here is a list of the published mods so far:
 | [Bonelab](https://github.com/floh-bhaptics/Bonelab_bhaptics) | [Steam](https://store.steampowered.com/app/1592190/) [Oculus](https://www.oculus.com/experiences/rift/5088709007839657) |  | vest, arms, hands, Tactal |  |
 | [Vertigo 2](https://www.nexusmods.com/vertigo2/mods/1) | [Steam](https://store.steampowered.com/app/843390/Vertigo_2/) |  | vest, arms, hands, feet, Tactal | Make entry |
 | [RUINSMAGUS](https://www.nexusmods.com/ruinsmagus/mods/2) | [Steam](https://store.steampowered.com/app/1701560/RUINSMAGUS/) |  | vest, arms, hands | (now native) |
-| [Broken Edge](https://www.nexusmods.com/brokenedge/mods/1) | [Steam](https://store.steampowered.com/app/1947070/Broken_Edge/) | | vest, arms, hands | Make entry |
-| [RESIST](https://www.nexusmods.com/resist/mods/1) | [Steam](https://store.steampowered.com/app/1914750/Resist/) [Oculus](https://www.oculus.com/experiences/rift/5060469207355477/) | | vest, arms | Make entry |
-| [Keep Talking and Nobody Explodes](https://www.nexusmods.com/keeptalkingandnobodyexplodes/mods/1) | [Steam](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/) [Oculus](https://www.oculus.com/experiences/rift/818716001584299/) | | vest, arms | Make entry |
-| [Drunkn Bar Fight](https://www.nexusmods.com/drunknbarfight/mods/1) | [Steam](https://store.steampowered.com/app/528550/Drunkn_Bar_Fight/) [Oculus](https://www.oculus.com/experiences/rift/1207497572657758/) | | vest | Make entry |
-| [Vox Machinae](https://www.nexusmods.com/voxmachinae/mods/1) | [Steam](https://store.steampowered.com/app/334540/Vox_Machinae/) [Oculus](https://www.oculus.com/experiences/rift/957951994279023/) | | vest | Make entry |
-| [Barbaria](https://www.nexusmods.com/barbaria/mods/1) | [Steam](https://store.steampowered.com/app/1984610/Barbaria/) [Oculus](https://www.oculus.com/experiences/rift/4002434216527968/) | | vest, arms | Make entry |
-| [Paradox of Hope](https://www.nexusmods.com/paradoxofhope/mods/1) | [Steam](https://store.steampowered.com/app/1702840/Paradox_of_Hope_VR/) | | vest, arms | Make entry |
+| [Broken Edge](https://www.nexusmods.com/brokenedge/mods/1) | [Steam](https://store.steampowered.com/app/1947070/Broken_Edge/) | | vest, arms, hands |  |
+| [RESIST](https://www.nexusmods.com/resist/mods/1) | [Steam](https://store.steampowered.com/app/1914750/Resist/) [Oculus](https://www.oculus.com/experiences/rift/5060469207355477/) | | vest, arms |  |
+| [Keep Talking and Nobody Explodes](https://www.nexusmods.com/keeptalkingandnobodyexplodes/mods/1) | [Steam](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/) [Oculus](https://www.oculus.com/experiences/rift/818716001584299/) | | vest, arms |  |
+| [Drunkn Bar Fight](https://www.nexusmods.com/drunknbarfight/mods/1) | [Steam](https://store.steampowered.com/app/528550/Drunkn_Bar_Fight/) [Oculus](https://www.oculus.com/experiences/rift/1207497572657758/) | | vest |  |
+| [Vox Machinae](https://www.nexusmods.com/voxmachinae/mods/1) | [Steam](https://store.steampowered.com/app/334540/Vox_Machinae/) [Oculus](https://www.oculus.com/experiences/rift/957951994279023/) | | vest |  |
+| [Barbaria](https://www.nexusmods.com/barbaria/mods/1) | [Steam](https://store.steampowered.com/app/1984610/Barbaria/) [Oculus](https://www.oculus.com/experiences/rift/4002434216527968/) | | vest, arms |  |
+| [Paradox of Hope](https://www.nexusmods.com/paradoxofhope/mods/1) | [Steam](https://store.steampowered.com/app/1702840/Paradox_of_Hope_VR/) | | vest, arms |  |
+| [The Light Brigade](https://www.nexusmods.com/thelightbrigade/mods/1) | [Steam](https://store.steampowered.com/app/1579880/The_Light_Brigade/) | | vest, arms, hands, feet, Tactal |  |
 
 
 <!---
