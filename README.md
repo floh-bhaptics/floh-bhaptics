@@ -40,7 +40,7 @@ Here is a list of the published mods so far:
 | [Rush](https://www.nexusmods.com/rush/mods/1) | [Steam](https://store.steampowered.com/app/844040/RUSH/) [Oculus](https://www.oculus.com/experiences/rift/1972405206119760/) | [Floh](https://www.youtube.com/watch?v=NNkKas2iXUs) | vest |  |
 | [Garden Of The Sea](https://www.nexusmods.com/gardenofthesea/mods/1) | [Steam](https://store.steampowered.com/app/1086850/Garden_of_the_Sea/) | [Floh](https://www.youtube.com/watch?v=diS-2FZ-nXU) | vest, arms, hands |  |
 | [Cooking Simulator VR](https://www.nexusmods.com/cookingsimulatorvr/mods/1) | [Steam](https://store.steampowered.com/app/1358140/Cooking_Simulator_VR/) | [Floh](https://www.youtube.com/watch?v=SM7-er_mZHA) | vest, arms, hands |  |
-| [The Living Remain](https://www.nexusmods.com/thelivingremain/mods/1) | [Steam](https://store.steampowered.com/app/594220/The_Living_Remain/) | [Floh](https://www.youtube.com/watch?v=DUpjFfI-yVI) | vest, arms, hands | (coming natively) |
+| [The Living Remain](https://www.nexusmods.com/thelivingremain/mods/1) | [Steam](https://store.steampowered.com/app/594220/The_Living_Remain/) | [Floh](https://www.youtube.com/watch?v=DUpjFfI-yVI) | vest, arms, hands | (now native) |
 | [Arizona Sunshine](https://www.nexusmods.com/arizonasunshine/mods/1) | [Steam](https://store.steampowered.com/app/342180/Arizona_Sunshine/) [Oculus](https://www.oculus.com/experiences/rift/872183756232656/) | [Floh](https://www.youtube.com/watch?v=UwA6HljX4SE) | vest, arms, hands, feet |  |
 | [AUDICA](https://www.nexusmods.com/audica/mods/1) | [Steam](https://store.steampowered.com/app/1020340/AUDICA_Rhythm_Shooter/) [Oculus](https://www.oculus.com/experiences/rift/2172302616173639/) | [Floh](https://www.youtube.com/watch?v=U4xvSUToIlM) | vest, arms, hands |  |
 | [A Blind Legend](https://www.nexusmods.com/ablindlegend/mods/1) | [Steam](https://store.steampowered.com/app/437530/A_Blind_Legend/) | -- | vest, arms, hands |  |
@@ -57,9 +57,11 @@ Here is a list of the published mods so far:
 | [Vox Machinae](https://www.nexusmods.com/voxmachinae/mods/1) | [Steam](https://store.steampowered.com/app/334540/Vox_Machinae/) [Oculus](https://www.oculus.com/experiences/rift/957951994279023/) | | vest |  |
 | [Barbaria](https://www.nexusmods.com/barbaria/mods/1) | [Steam](https://store.steampowered.com/app/1984610/Barbaria/) [Oculus](https://www.oculus.com/experiences/rift/4002434216527968/) | | vest, arms |  |
 | [Paradox of Hope](https://www.nexusmods.com/paradoxofhope/mods/1) | [Steam](https://store.steampowered.com/app/1702840/Paradox_of_Hope_VR/) | | vest, arms |  |
-| [The Light Brigade](https://www.nexusmods.com/thelightbrigade/mods/1) | [Steam](https://store.steampowered.com/app/1579880/The_Light_Brigade/) | | vest, arms, hands, feet, Tactal |  |
-| [Arizona Sunshine 2](https://www.nexusmods.com/arizonasunshine2/mods/1) | [Steam](https://store.steampowered.com/app/1540210/Arizona_Sunshine_2/) | | vest, arms, hands, feet, Tactal |  |
-| [Underdogs](https://www.nexusmods.com/underdogs/mods/2) | [Steam](https://store.steampowered.com/app/2441700/UNDERDOGS/) | | vest, arms |  |
+| [The Light Brigade](https://www.nexusmods.com/thelightbrigade/mods/1) | [Steam](https://store.steampowered.com/app/1579880/The_Light_Brigade/) | | vest, arms, hands, feet, Tactal | (coming natively) |
+| [Arizona Sunshine 2](https://www.nexusmods.com/arizonasunshine2/mods/1) | [Steam](https://store.steampowered.com/app/1540210/Arizona_Sunshine_2/) | | vest, arms, hands, feet, Tactal | (now native) |
+| [Underdogs](https://www.nexusmods.com/underdogs/mods/2) | [Steam](https://store.steampowered.com/app/2441700/UNDERDOGS/) | | vest, arms | (coming natively) |
+| [CONVRGENCE]((https://www.nexusmods.com/convrgence/mods/1)) | [Steam](https://store.steampowered.com/app/2609610/CONVRGENCE/) | | vest, arms |  |
+| [Soul Covenant](https://www.nexusmods.com/soulcovenant/mods/1) | [Steam](https://store.steampowered.com/app/2237740/SOUL_COVENANT/) | | vest, arms |  |
 
 
 <!---
