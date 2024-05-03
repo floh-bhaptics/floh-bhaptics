@@ -60,7 +60,7 @@ Here is a list of the published mods so far:
 | [The Light Brigade](https://www.nexusmods.com/thelightbrigade/mods/1) | [Steam](https://store.steampowered.com/app/1579880/The_Light_Brigade/) | | vest, arms, hands, feet, Tactal | (coming natively) |
 | [Arizona Sunshine 2](https://www.nexusmods.com/arizonasunshine2/mods/1) | [Steam](https://store.steampowered.com/app/1540210/Arizona_Sunshine_2/) | | vest, arms, hands, feet, Tactal | (now native) |
 | [Underdogs](https://www.nexusmods.com/underdogs/mods/2) | [Steam](https://store.steampowered.com/app/2441700/UNDERDOGS/) | | vest, arms | (coming natively) |
-| [CONVRGENCE]((https://www.nexusmods.com/convrgence/mods/1)) | [Steam](https://store.steampowered.com/app/2609610/CONVRGENCE/) | | vest, arms |  |
+| [CONVRGENCE](https://www.nexusmods.com/convrgence/mods/1) | [Steam](https://store.steampowered.com/app/2609610/CONVRGENCE/) | | vest, arms |  |
 | [Soul Covenant](https://www.nexusmods.com/soulcovenant/mods/1) | [Steam](https://store.steampowered.com/app/2237740/SOUL_COVENANT/) | | vest, arms |  |
 
 
