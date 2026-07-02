@@ -62,6 +62,10 @@ Here is a list of the published mods so far:
 | [Underdogs](https://www.nexusmods.com/underdogs/mods/2) | [Steam](https://store.steampowered.com/app/2441700/UNDERDOGS/) | | vest, arms | (coming natively) |
 | [CONVRGENCE](https://www.nexusmods.com/convrgence/mods/1) | [Steam](https://store.steampowered.com/app/2609610/CONVRGENCE/) | | vest, arms |  |
 | [Soul Covenant](https://www.nexusmods.com/soulcovenant/mods/1) | [Steam](https://store.steampowered.com/app/2237740/SOUL_COVENANT/) | | vest, arms |  |
+| [Arken Age](https://github.com/floh-bhaptics/ArkenAge_bhaptics) | [Steam](https://store.steampowered.com/app/2274200/Arken_Age/) | | vest, arms |  |
+| [Thief VR](https://github.com/floh-bhaptics/ThiefVR_bhaptics) | [Steam](https://store.steampowered.com/app/2800080/Thief_VR_Legacy_of_Shadow/) | | vest, arms |  |
+| [Behemoth](https://github.com/floh-bhaptics/Behemoth_bhaptics_LUA) | [Steam](https://store.steampowered.com/app/1707990/Skydances_BEHEMOTH/) | | vest, arms |  |
+| [No Man's Sky](https://github.com/floh-bhaptics/NoMansSky_bhaptics_NMSpy) | [Steam](https://store.steampowered.com/app/275850/No_Mans_Sky/) | | vest, arms |  |
 
 
 <!---
